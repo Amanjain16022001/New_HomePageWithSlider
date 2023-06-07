@@ -1,10 +1,13 @@
-body {
+/* body {
     background: #333;
   }
-  
+   */
   /*----------------------------*\
         Coverflow Album Slider 
   \*-----------------------------*/
+  a{
+    text-decoration: none;
+  }
   .coverflow {
     position: relative;
     height: 460px;
@@ -749,7 +752,7 @@ body {
     position: absolute;
     top: 50%;
     padding: 1.5rem 2rem;
-    color: rgba(255, 255, 255, 0.5);
+    /* color: rgba(255, 255, 255, 0.5); */
     font-size: 3rem;
     line-height: 3rem;
     background: transparent;
